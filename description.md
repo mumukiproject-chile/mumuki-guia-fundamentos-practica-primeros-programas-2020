@@ -1,3 +1,3 @@
-Ahora que ya conocés a `Poner`, `Mover` y `Sacar`, ya estamos en condiciones de pedirte que los combines. :hushed:
+Ahora que ya conoces `Poner`, `Mover` y `Sacar`, ya estamos en condiciones de pedirte que los combines. :hushed:
 
-Acompañanos a resolver algunos desafíos.
+Acompáñanos a resolver algunos desafíos.

@@ -1,6 +1,6 @@
-Ahora que combinamos operaciones, la cosa se pone un poco mas complicada, porque hay que tener **más cuidado con el orden**.
+Ahora que combinamos operaciones, la cosa se pone un poco más complicada, porque hay que tener **más cuidado con el orden**.
 
-Por ejemplo, mirá el programa que escribiste:
+Por ejemplo, mira el programa que escribiste:
 
 ```puppet
 program {
@@ -16,9 +16,9 @@ Operacionalmente:
 1. luego se mueve al este
 1. luego pone una negra
 
-Es decir: pone una roja en la posicion inicial, y una negra al este
+Es decir: pone una roja en la posicion inicial y una negra al este
 
-Y ahora mirá este otro:
+Y ahora mira este otro:
 
 ```puppet
 program {

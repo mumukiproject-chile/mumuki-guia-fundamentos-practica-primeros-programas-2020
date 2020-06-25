@@ -1,3 +1,3 @@
-**Recordá**: dentro del cuerpo del programa, las operaciones se ejecutan en **orden**, de arriba para abajo.
+**Recuerda**: dentro del cuerpo del programa, las operaciones se ejecutan en **orden**, de arriba para abajo.
 
 No siempre nos importa, pero en este caso...
