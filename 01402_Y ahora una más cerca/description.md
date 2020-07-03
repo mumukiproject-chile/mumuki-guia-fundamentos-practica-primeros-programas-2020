@@ -1,4 +1,4 @@
-Ya lograste dibujar la bandera de Portugal con Gobstones. Ahora probemos hacer una bandera de Latinoamérica. ¿Te animás a dibujar la de Chile?
+Ya lograste dibujar la bandera de Portugal con Gobstones. Ahora probemos hacer una bandera de Latinoamérica. ¿Te animas a dibujar la de Chile?
 
 > Con el cabezal en el origen, tu tarea es dibujar esta pseudo-bandera chilena:
 
