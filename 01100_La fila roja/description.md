@@ -2,4 +2,12 @@ Escribe un programa que, a partir de un tablero vacío y con el cabezal en el or
 
 Además, el cabezal debe quedar en el extremo final de la línea, como se ve en la imagen:
 
-<gs-board> GBB/1.0 size 4 2 cell 0 0 Rojo 1 cell 1 0 Rojo 1 cell 2 0 Rojo 1 cell 3 0 Rojo 1 head 3 0 <gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 4 2 
+  cell 0 0 Rojo 1 
+  cell 1 0 Rojo 1 
+  cell 2 0 Rojo 1 
+  cell 3 0 Rojo 1 
+  head 3 0 
+<gs-board>
