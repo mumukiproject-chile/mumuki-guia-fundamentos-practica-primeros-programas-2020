@@ -1,6 +1,6 @@
-Ya lograste dibujar la bandera de Portugal con Gobstones. Ahora probemos hacer una bandera de Latinoamérica. ¿Te animas a dibujar la [estrella solitaria]("https://es.wikipedia.org/wiki/Bandera_de_Chile")?
+Ya lograste dibujar la bandera de Portugal con Gobstones. Ahora probemos  hacer una bandera latinoamericana. ¿Te animas a dibujar la [estrella solitaria]("https://es.wikipedia.org/wiki/Bandera_de_Chile")?
 
-> Con el cabezal en el origen, tu tarea es dibujar esta pseudo-bandera chilena:
+> Con el cabezal en el origen, tu tarea es dibujar esta pseudobandera chilena:
 
 <gs-board>
   GBB/1.0
