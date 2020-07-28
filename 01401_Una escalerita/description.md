@@ -1,4 +1,4 @@
-Usando las herramientas que ya conoces, dibuj una escalera azul como la que se ve en la imagen. El cabezal **empieza en el origen** (o sea, en el borde Sur-Oeste) y debe quedar en el extremo inferior derecho de la escalera. Mira la imagen:
+Usando las herramientas que ya conoces, dibuja una escalera azul como la que se ve en la imagen. El cabezal **empieza en el origen** (o sea, en el borde Sur-Oeste) y debe quedar en el extremo inferior derecho de la escalera. Mira la imagen:
 
 <gs-board>
   GBB/1.0
