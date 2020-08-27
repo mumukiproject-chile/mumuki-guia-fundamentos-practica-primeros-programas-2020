@@ -1,4 +1,4 @@
-Escribe un programa que, a partir de un tablero vacío y con el cabezal en el origen, dibuje una línea de cuatro celdas **hacia el este**. Las bolitas deben ser rojas, y debe poner una bolita por celda.
+Crea un programa que, a partir de un tablero vacío y con el cabezal en el origen, dibuje una línea de cuatro celdas **hacia el este**. Las bolitas deben ser rojas, y debe poner una bolita por celda.
 
 Además, el cabezal debe quedar en el extremo final de la línea, como se ve en la imagen:
 
