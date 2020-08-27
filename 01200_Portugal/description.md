@@ -1,4 +1,4 @@
-> Escribe un programa que dibuje una bandera portuguesa.
+> Crea un programa que dibuje una bandera portuguesa.
 
 La bandera de Portugal se ve así:
 
