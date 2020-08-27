@@ -1,4 +1,4 @@
-> Escribe un programa que ponga dos bolitas en la posición inicial y otras dos en la celda de al lado hacia el este. Todas las bolitas deben ser rojas.
+> Crea un programa que ponga dos bolitas en la posición inicial y otras dos en la celda de al lado hacia el este. Todas las bolitas deben ser rojas.
 
 Acá te damos un ejemplo de cómo debería quedar el tablero:
 
